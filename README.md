@@ -35,4 +35,4 @@ This project is a demonstration of how to build a basic e-commerce backend using
 
 ## Installation
 
-1. **Clone the Repository:**
+1. Clone the Repository
