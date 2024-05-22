@@ -4,19 +4,6 @@
 
 A RESTful API for building an e-commerce platform using Flask, Flask-SQLAlchemy, and MySQL.
 
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [API Endpoints](#api-endpoints)
-- [Authentication](#authentication)
-- [Data Validation](#data-validation)
-- [Error Handling](#error-handling)
-- [Postman Collection](#postman-collection)
-- [License](#license)
-
 ## Project Overview
 
 This project is a demonstration of how to build a basic e-commerce backend using Flask. It provides endpoints for:
