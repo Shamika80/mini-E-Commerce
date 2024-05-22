@@ -1,8 +1,4 @@
-# Flask E-commerce API
-
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-A RESTful API for building an e-commerce platform using Flask, Flask-SQLAlchemy, and MySQL.
+ API for building an e-commerce platform using Flask, Flask-SQLAlchemy, and MySQL.
 
 ## Project Overview
 
